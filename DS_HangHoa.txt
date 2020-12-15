@@ -1,0 +1,5 @@
+hh001 ga con 20
+hh005 nuoc lon 15
+hh003 keo cay 18
+hh002 sua thung 40
+hh009 giayvs bich 13
